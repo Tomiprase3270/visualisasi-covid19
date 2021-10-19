@@ -18,3 +18,4 @@ Tutorial ini memerlukan library berikut:
 - `pandas` versi 1.2.4
 - `streamlit`versi 1.0.0
 - `plotly` versi 5.3.1
+- `openpyxl`
